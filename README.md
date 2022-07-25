@@ -1,2 +1,2 @@
 # git-merge-demo
-1st line in A
+1st line in B

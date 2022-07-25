@@ -1,0 +1,6 @@
+# git-merge-demo
+<<<<<<< HEAD
+1st line in A
+=======
+2nd line in B
+>>>>>>> 1eb8d4c (line modified in B)
